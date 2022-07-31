@@ -1,0 +1,15 @@
+{
+  "options" : {
+    "titlelag" : true,
+    "prefixCMD" : "#",
+    "server tablist" : false,
+    "lastpacket" : true,
+    "theme" : "DEFAULT",
+    "language" : "ENGLISH",
+    "scoreboard" : true
+  },
+  "skin" : {
+    "signature" : "EjGim92orA1KraAiX+3AkzMFhzIKTKrzGpTw6Ny8qGoY4qJiuK7BgRcg6TVBvQ4ZNVt/Ch5m2g1YVhnk1G6QVeeKGt7dFKaHsC+R2qYOti/QqpXsHFs9n8X6O9O6Mv9POVnxo2hsdTjOZnIO0jpVvzAxV+XnNegDzG2qSPsCRYIRQuFgU1V88TyvOpad50McSmWwChK4YrIixtYVqPZIQqe3AwBIx3gjvfmP359AlPn2U2B1y7f72wGAfV6/6EaWqgbatu+jda//ei6gz874TTm5cQMD4EpOJf2WNCJjuuRFcf1zv/E/R2S3wd0kEyKJc54OVd2Af0SPf/L29hL2e0mWsegobU4FvbwsTTLhxsY752/wSPzkiaMyR8ydWZeG5LAs+fgOGNcBByFW1TlHI8m23WTCQa1u1Xs51mtznKWQ0f8A86+MJo3b2u2pE8avjiIeMHH78MwMLHf5a7rf7RGQWulsD7A4yvuYoyQr2TEYdLcvp7Qyk5jY1h6oZ7bbamRA7sl17YPV6RL/+gkfxVsSl+tzhODkpTK4dw2yr3fQeXDPsjvto0QBafCFN8CYnzU6WoL3tQoCD9hjPd5tFhITLBbwDZODzGYsuPj0Sp7FWoanVgaQ2lIkaGynEIG2fI2NVugPnTdL/EgbKRiZzupSHjZMlhxYXznp/esSok8=",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTY1OTEwOTU3MTc5NiwKICAicHJvZmlsZUlkIiA6ICI3MjU4ZTZmYjFmODc0OTUxYjk4MzJhNjNlMThjZDExZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBYmVsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ViNGY0ZTQ0MWE4NjRiNzBlZDE0OTBjYjkzMDEyZGY1NzQwMjk2ZTI4OTg1MTgxZDU2ZDUxMDgyYWU2OWMwOWQiCiAgICB9CiAgfQp9"
+  }
+}
